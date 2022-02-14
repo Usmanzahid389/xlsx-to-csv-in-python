@@ -1,5 +1,7 @@
 # xlsx-to-csv-in-python
-This script will convert xlsx to csv with multiple sub sheets if exists in xlsx file
+
+
+This script will convert all folder of xlsx to csv with multiple sub sheets
 
 Lets say you a have a folder full of xlsx files with multiple sheets and who want to convert them into csv files.
 just create two folder one in which all old files are placed and the second where new files will be saved.
